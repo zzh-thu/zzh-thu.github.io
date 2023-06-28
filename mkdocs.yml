@@ -9,6 +9,7 @@ nav:
   - 数学:
     - 微积分:
       - calculus/index.md
+      - calculus/微分.md
     - 线性代数:
       - linear_algebra/index.md
   - 博客:

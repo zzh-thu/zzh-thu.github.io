@@ -44,8 +44,8 @@ theme:
     repo: fontawesome/brands/github
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 ## [top-right corner]
-# repo_url: https://github.com/zzh-thu/zzh-thu.github.io # 右上角点击跳转的链接
-# repo_name: zzh-thu.github.io # 右上角的名字
+repo_url: https://github.com/zzh-thu/zzh-thu.github.io # 右上角点击跳转的链接
+repo_name: zzh-thu.github.io # 右上角的名字
 ## [bottom-left corner]
 copyright: 郑至恒 CC-BY-4.0 # 左下角的版权声明
 ## [bottom-right corner]
